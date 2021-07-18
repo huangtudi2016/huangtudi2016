@@ -6,9 +6,9 @@
 
 -------------
 
-性别：男 &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;年龄：31<br>
+性别：男 &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;年龄：30<br>
 手机：17637500985&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;邮箱：huangtuping2016@sina.com<br>
-专业：计算机科学与技术&nbsp; &nbsp; &nbsp; &nbsp;岗位：实施工程师
+专业：计算机科学与技术&nbsp; &nbsp; &nbsp; &nbsp;岗位：软件实施/开发运维
 
 ## 工作及教育经历
 
@@ -24,11 +24,15 @@
 
 -----
 
+- 熟悉计算机网络知识和。
 - 熟悉sql的编写，调优。
 - 熟悉windows，linux操作系统的基本操作和维护。
 - 熟悉tomcat的部署，优化。
 - 熟悉ngnix反向代理的配置。
+- 熟练使用git版本控制工具。
 - 熟练使用java,nodejs.
+- 能够自己开发程序工具来实现自动化部署项目。
+- 熟悉项目流程，风险控制。
 
 ## 项目经历
 
@@ -43,3 +47,4 @@
 
 喜欢钻研技术，喜欢去研究技术的高级用法，去寻找技术实现的其他方法。
 性格开朗，有幽默感。
+我的github：[huangtudi2016](https://github.com/huangtudi2016/)
